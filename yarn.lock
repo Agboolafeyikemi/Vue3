@@ -377,7 +377,7 @@ util-deprecate@^1.0.2:
 
 vite@2.1.1:
   version "2.1.1"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.1.1.tgz#13c7a7a5665b435f28fe8549caab181e0ad9af7b"
+  resolved "https://registry.npmjs.org/vite/-/vite-2.1.1.tgz"
   integrity sha512-nlTQrfYIkahcElD8O/oogbLbuKgAZRbvoFOth3GmRSglfPdY4RgfBjj0Fu7HeCU/2u3Jxc6jW4UuV22LGw1Yaw==
   dependencies:
     esbuild "^0.9.2"
