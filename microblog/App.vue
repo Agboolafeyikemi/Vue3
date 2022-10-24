@@ -31,7 +31,7 @@
   </div>
 </template>
 
-hashtag -> app
+
 
 <script>
 import { computed } from 'vue'
